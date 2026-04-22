@@ -2,6 +2,10 @@
 
 <!--[![vruzicka830 profile views](https://u8views.com/api/v1/github/profiles/193666485/views/day-week-month-total-count.svg)](https://u8views.com/github/vruzicka830)-->
 
+![Profile Views](https://371e254d-db34-4665-bc34-6ed8f3af3fdc?environmentId=090da641-0852-46f9-859f-f233877eb7a8.up.railway.app/pixel.gif)
+
+<!--https://railway.com/project/371e254d-db34-4665-bc34-6ed8f3af3fdc?environmentId=090da641-0852-46f9-859f-f233877eb7a8-->
+
 ## Hi there 👋
 
 <!--
